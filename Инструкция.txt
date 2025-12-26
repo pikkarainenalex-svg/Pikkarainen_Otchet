@@ -1,0 +1,7 @@
+Установите Python
+https://www.python.org/downloads/
+
+Установите openpyxl
+PowerShell: pip install openpyxl
+
+Далее запустите файл
