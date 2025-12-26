@@ -2,6 +2,9 @@
 https://www.python.org/downloads/
 
 Установите openpyxl
+Для Windows
 PowerShell: pip install openpyxl
+Для Linux
+Console: sudo apt-get install python3-
 
 Далее запустите файл
