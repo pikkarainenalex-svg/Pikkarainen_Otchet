@@ -2,6 +2,11 @@
 https://www.python.org/downloads/
 
 Установите openpyxl
+Для Windows
 PowerShell: pip install openpyxl
+Для Linux
+Console: sudo apt-get install python3-
+Для MacOS
+Terminal: pip install openpyxl_for_MAC
 
 Далее запустите файл
