@@ -10,4 +10,3 @@ Console: sudo apt-get install python3-
 Terminal: pip install openpyxl_for_MAC
 
 Далее запустите файл
-
